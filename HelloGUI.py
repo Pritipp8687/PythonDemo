@@ -1,3 +1,4 @@
-import tkinter
+import math
 
-t=tkinter()
+a = math.ceil(45.4)
+print(a)
